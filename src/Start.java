@@ -9,7 +9,7 @@ public class Start {
 			System.out.println("Hello World!");
 		}
 		
-		System.out.println("bootyhole is the goal"); 
+		System.out.println("bootyhole is the ultamate goal"); 
 		
 		int i = 0;
 		while(i < 5)
